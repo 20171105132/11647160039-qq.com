@@ -77,9 +77,9 @@
 		96C1D371215C61600099AA05 = {
 			isa = PBXGroup;
 			children = (
-				96C1D37C215C61600099AA05 /* 计算器程序 */,
-				96C1D391215C61610099AA05 /* 计算器程序Tests */,
-				96C1D39C215C61610099AA05 /* 计算器程序UITests */,
+				96C1D37C215C61600099AA05 /* swift_learn */,
+				96C1D391215C61610099AA05 /* swift_learn Tests */,
+				96C1D39C215C61610099AA05 /* swift_learn UITests */,
 				96C1D37B215C61600099AA05 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -94,7 +94,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		96C1D37C215C61600099AA05 /* 计算器程序 */ = {
+		96C1D37C215C61600099AA05 /* swift_learn */ = {
 			isa = PBXGroup;
 			children = (
 				96C1D37D215C61600099AA05 /* AppDelegate.swift */,
@@ -104,25 +104,25 @@
 				96C1D386215C61610099AA05 /* LaunchScreen.storyboard */,
 				96C1D389215C61610099AA05 /* Info.plist */,
 			);
-			path = "计算器程序";
+			path = swift_learn;
 			sourceTree = "<group>";
 		};
-		96C1D391215C61610099AA05 /* 计算器程序Tests */ = {
+		96C1D391215C61610099AA05 /* swift_learn Tests */ = {
 			isa = PBXGroup;
 			children = (
 				96C1D392215C61610099AA05 /* _____Tests.swift */,
 				96C1D394215C61610099AA05 /* Info.plist */,
 			);
-			path = "计算器程序Tests";
+			path = "swift_learn Tests";
 			sourceTree = "<group>";
 		};
-		96C1D39C215C61610099AA05 /* 计算器程序UITests */ = {
+		96C1D39C215C61610099AA05 /* swift_learn UITests */ = {
 			isa = PBXGroup;
 			children = (
 				96C1D39D215C61610099AA05 /* _____UITests.swift */,
 				96C1D39F215C61610099AA05 /* Info.plist */,
 			);
-			path = "计算器程序UITests";
+			path = "swift_learn UITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -204,7 +204,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 96C1D375215C61600099AA05 /* Build configuration list for PBXProject "计算器程序" */;
+			buildConfigurationList = 96C1D375215C61600099AA05 /* Build configuration list for PBXProject "swift_learn" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -543,7 +543,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		96C1D375215C61600099AA05 /* Build configuration list for PBXProject "计算器程序" */ = {
+		96C1D375215C61600099AA05 /* Build configuration list for PBXProject "swift_learn" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				96C1D3A0215C61610099AA05 /* Debug */,
